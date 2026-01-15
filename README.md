@@ -100,7 +100,7 @@ I enjoy transforming complex ideas into **production-ready solutions** that are 
 
 ## 📫 Let’s Connect
 
-* 🔗 **LinkedIn:**https://www.linkedin.com/in/meet-brahmbhatt-ai/
+* 🔗 **LinkedIn:** https://www.linkedin.com/in/meet-brahmbhatt-ai/
 * 📧 **Email:** [meetnaresh.brahmbhatt@stonybrook.edu](mailto:meetnaresh.brahmbhatt@stonybrook.edu)
 * 🌐 **Portfolio/GitHub:** You’re already here 😉
 
