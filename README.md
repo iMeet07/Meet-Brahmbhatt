@@ -1,10 +1,6 @@
 # Meet-Brahmbhatt
 Data Science graduate student at Stony Brook University with hands-on experience in machine learning, NLP, and LLM-powered systems. Built scalable AI applications, RAG pipelines, and production-ready ML solutions across research and industry internships. Passionate about applied AI, system design, and real-world impact.
 
-Perfect 👍
-Here’s a **HIGH-IMPACT GitHub Profile README** tailored specifically for **AI / Data Science / Internship recruiting**. You can copy-paste this into a repo named **`nareshbrahmbhatt`** (same as your GitHub username).
-
----
 
 ## 👋 Hi, I’m Naresh Brahmbhatt
 
@@ -104,7 +100,7 @@ I enjoy transforming complex ideas into **production-ready solutions** that are 
 
 ## 📫 Let’s Connect
 
-* 🔗 **LinkedIn:** *(add link)*
+* 🔗 **LinkedIn:**https://www.linkedin.com/in/meet-brahmbhatt-ai/**
 * 📧 **Email:** [meetnaresh.brahmbhatt@stonybrook.edu](mailto:meetnaresh.brahmbhatt@stonybrook.edu)
 * 🌐 **Portfolio/GitHub:** You’re already here 😉
 
@@ -118,19 +114,3 @@ I enjoy transforming complex ideas into **production-ready solutions** that are 
 * **LLM / NLP / Applied AI projects**
 
 ---
-
-### 🔥 Pro Tip (Very Important)
-
-After adding this README:
-
-1. **Pin 3–4 strongest projects**
-2. Add **clean READMEs** to each repo
-3. Push **meaningful commits weekly**
-
-If you want next:
-
-* 📌 **Which repos to pin (exact order)**
-* 🧠 **How to write elite project READMEs**
-* 💼 **GitHub → Resume → LinkedIn alignment**
-
-Just say the word 💪
